@@ -1,0 +1,40 @@
+{
+  "Games": [
+    {
+      "id": "1",
+      "title": "Resident Evil 4",
+      "Thumnail": "https://assets.reedpopcdn.com/resident-evil-4-remake.jpeg/BROK/resize/1200x1200%3E/format/jpg/quality/70/resident-evil-4-remake.jpeg",
+      "image": "https://i.ytimg.com/vi/SIBr3l5YCKQ/maxresdefault.jpg",
+      "Publisher": "Capcom",
+      "Port": "PC, PS5, Xbox One",
+      "Description": "Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals."
+    },
+    {
+      "id": "2",
+      "title": "Call of duty MW2",
+      "Thumnail": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/mwii/MWII-000-ARTREVEAL-TOUT.jpg",
+      "image": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/mwii/MWII-LAUNCH-INTEL-TOUT.jpg",
+      "Publisher": "Activition",
+      "Port": "PC, PS5, Xbox One",
+      "Description": "NEW GAMEPLAY INNOVATIONS. ALL-NEW GUN HANDLING. ADVANCED AI. MODERN WARFARE® II BRINGS YOU A GLOBAL CAMPAIGN, IMMERSIVE MULTIPLAYER COMBAT AND NARRATIVE-DRIVEN SPECIAL OPS."
+    },
+    {
+      "id": "3",
+      "title": "GOD OF WAR Ragnarok",
+      "Thumnail": "https://tech4gamers.com/wp-content/uploads/2022/07/God-of-War-Ragnarok.jpg",
+      "image": "https://www.ggrecon.com/media/dtrdqgez/god-of-war-ragnarok-pc-cover.jpg",
+      "Publisher": "SONY",
+      "Port": "PS4, PS5,",
+      "Description": "From Santa Monica Studio comes the sequel to the critically acclaimed God of War (2018). Fimbulwinter is well underway. Kratos and Atreus must journey to each of the Nine Realms in search of answers as Asgardian forces prepare for a prophesied battle that will end the world."
+    },
+    {
+      "id": "4",
+      "title": "FAR CRY 5",
+      "Thumnail": "https://cdn.vox-cdn.com/thumbor/Ity1d-pRaw6ENcRdXbFY5yEwhiw=/870x1094:6231x3901/fit-in/1200x630/cdn0.vox-cdn.com/uploads/chorus_asset/file/8582699/Far_Cry_5_Key_Art_Wide_1495770936.jpg",
+      "image": "https://staticctf.akamaized.net/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/75IAWE4SlEORd1Fko4AKhn/db62d0902c6b120724ef3eb02c44890d/far-cry-5-heroBanner.jpg",
+      "Publisher": "Ubisoft",
+      "Port": "PC, PS5, Xbox One",
+      "Description": "Welcome to Hope County, Montana, home to a fanatical doomsday cult known as Eden’s Gate. Stand up to cult leader Joseph Seed & his siblings, the Heralds, to spark the fires of resistance & liberate the besieged community."
+    }
+  ]
+}
